@@ -4,7 +4,7 @@ Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
 Sharing demo: <https://framer.com/share/To-Do-Example-copy-pAFTKsTS9F2LpjVBOOVC>
 
-Follow the interactive product tour to get a quick feel for it.
+Go to <https://login.framer.com> and follow an interactive product tour to get a quick feel for it.
 
 ## A quick summary of other design tools:
 
